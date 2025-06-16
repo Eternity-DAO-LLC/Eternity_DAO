@@ -1,3 +1,9 @@
-# Ethernity_DAO
-Eternity_DAO Contract and Documentation
-ETHERNITY-DAO is a community created to think about your future and that of your children in a decentralized, depoliticized, and corruption-free way. Managing your retirement fund with transparency, according to your ideals and expectations for the future, without restrictions, with low commissions, without intermediaries or states that determine when or how you should stop working and how much you will receive.
+   # Ethernity_DAO
+ Eternity_DAO Contract and Documentation
+
+
+   -- ETHERNITY-DAO --
+At Ethernity-DAO, we aspire to be the largest DAO community, created with our future and that of our children in mind, in a decentralized, depoliticized, and corruption-free way. Each person will manage their retirement fund in a transparent environment with full democratic decision-making, with their ideals and expectations for the future, without restrictions, with low fees, without intermediaries or governments determining when or how we should stop working and how much we will receive.
+
+With a native token called GERAS (named after the Greek god of longevity), implemented with a Proof-of-Activity system, each month, after making a contribution to the fund, the token is reactivated for voting. This way, with one token per person who actively participates in the community and is interested in its future, we will be able to carry out the consultations and votes proposed by the community. (Changing DeFi to improve returns, making additional contributions for other purposes, etc.)
+
